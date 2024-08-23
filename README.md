@@ -4,4 +4,4 @@ O problema apresentado traz o desafio de prever a capacidade de um cliente para 
 
 Este problema é crucial porque ajuda a empresa a minimizar os riscos de crédito ao mesmo tempo em que possibilita o acesso a empréstimos para indivíduos que tradicionalmente não teriam essa oportunidade. Portanto, trata-se de um equilíbrio entre responsabilidade financeira e inclusão social.
 
-[analise completa][https://github.com/tmarsbr/Analise-Exploratoriaa/blob/main/Analise_Exploratoria.ipynb]
+[analise completa](https://github.com/tmarsbr/Analise-Exploratoriaa/blob/main/Analise_Exploratoria.ipynb)
